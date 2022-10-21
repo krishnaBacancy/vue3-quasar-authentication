@@ -5,7 +5,6 @@
       <div class="row justify-center full-height">
         <q-card class="my-card col-12 col-sm-7 col-md-5 col-lg-3 mt-0 no-shadow">
           <q-card-section>
-            <h2 class="title text-center">Logo Here</h2>
             <q-btn-toggle
               v-model="tab"
               spread
